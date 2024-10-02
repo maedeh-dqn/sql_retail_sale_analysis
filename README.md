@@ -198,9 +198,9 @@ select
 from hourly_sales
 group by shift
 order by total_orders desc;
-```
 
 -- END OF PROJECT --
+```
 
 ### 4. Findings
 
