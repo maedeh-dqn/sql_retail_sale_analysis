@@ -15,14 +15,12 @@ This project is designed to demonstrate SQL skills and techniques typically used
 3. **Exploratory Data Analysis (EDA)**: Perform basic exploratory data analysis to understand the dataset.
 4. **Business Analysis**: Use SQL to answer specific business questions and derive insights from the sales data.
 
-## Project Structure
+## Project Structure ##
 
 ### Database Setup
 
 - **Database Creation**: The project starts by creating a database named `sql_project_p1`.
 - **Table Creation**: A table named `retail_sales` is created to store the sales data. The table structure includes columns for transaction ID, sale date, sale time, customer ID, gender, age, product category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount.
-
-```sql
 
 -- Create Database
 create database sql_project_p1
@@ -207,9 +205,10 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 3. **Run the Queries**: Use the SQL queries provided in the `analysis_queries.sql` file to perform your analysis.
 4. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
 
+---> Author - Maedeh Dehghan
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
-- **E-mail Address**: [mdehghan9397@gmail.com]
+**E-mail Address**: [mdehghan9397@gmail.com]
 
 Thank you for your support, and I look forward to connecting with you!
